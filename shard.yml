@@ -4,7 +4,7 @@ version: 0.3.0
 dependencies:
   kemal-session:
     github: kemalcr/kemal-session
-    branch: master
+    version: ~> 1.0.0
   pool:
     github: ysbaddaden/pool
     version: 0.2.3
@@ -14,5 +14,6 @@ dependencies:
 
 authors:
   - Rimas Silkaitis <neovintage@gmail.com>
+  - scriptmaster <scriptmaster@gmail.com>
 
-license: MIT
+license: Proprietary
